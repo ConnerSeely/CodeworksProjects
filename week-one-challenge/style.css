@@ -1,0 +1,64 @@
+.top-header {
+    background-color: lightcoral;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.background-img {
+    height: 90vh;
+    background-image: url(https:images.unsplash.com/photo-1541450805268-4822a3a774ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+}
+
+.card {
+    height: 80vh;
+}
+
+.card-spill {
+    background-color: lightcoral;
+}
+
+.card-body2 {
+    background-color: lightsteelblue;
+    height: 33vh;
+}
+
+@media only screen and (min-width: 768px) {
+    .progress-columns {
+        margin-top: 10em;
+    }
+
+    .imageheader {
+        margin-top: 7em;
+    }
+
+    .top-header {
+        position: fixed;
+        top: 0;
+        z-index: 50;
+    }
+}
+
+.progress {
+    height: 3rem;
+}
+
+.img2 {
+    background-color: blanchedalmond;
+}
+
+.sample-text {
+    color: blueviolet;
+}
+
+.card2 {
+    height: 30vh;
+    background-color: lightsteelblue;
+}
+
+.cards {
+    background-color: blanchedalmond;
+}
+
+.almostfooter {
+    background-color: lightcoral;
+}
